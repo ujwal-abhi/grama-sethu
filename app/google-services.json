@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1054175568012",
+    "firebase_url": "https://gramasethu-d21fb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gramasethu-d21fb",
+    "storage_bucket": "gramasethu-d21fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054175568012:android:92f6d65a472ff766b59ba9",
+        "android_client_info": {
+          "package_name": "com.example.gramasethu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXjYJiFBQ92lgpxjO2LpyeVeHOVvWKujU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
